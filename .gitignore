@@ -1,0 +1,46 @@
+# Java ve Maven için
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.swp
+*.swo
+.DS_Store
+*.iml
+*.classpath
+*.project
+/.idea/
+/*.project
+/.metadata/
+/*.settings
+/.classpath
+/.settings
+/.project
+*.lock
+
+# Next.js için
+node_modules/
+.next/
+out/
+*.log
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+*.DS_Store
+
+# Diğer
+*.tgz
+*.zip
+*.tar
+*.gz
+*.rar
+
+# OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
